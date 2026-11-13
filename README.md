@@ -43,6 +43,10 @@ The jungle arena from Primal Dread has trees, rocks and plants around it. The Cr
 
 Found a bug or a conflict with another mod? Open an issue here or write in the Workshop comments: which background, what you saw, which other mods you use. A screenshot helps a lot.
 
+## License
+
+All rights reserved. You may use and modify the mod for personal play, but you may not re-upload or redistribute it, or publish it under another name, without permission. See [LICENSE](LICENSE).
+
 ---
 
 ## По-русски
@@ -50,3 +54,5 @@ Found a bug or a conflict with another mod? Open an issue here or write in the W
 Мод добавляет окружение вокруг арены в первой локации и в Бездне вместо чёрной пустоты: земля продолжается за край, вокруг стоят предметы по теме каждого из девяти фонов. Только внешний вид, на игру не влияет, зависимостей нет. Работает и в локальной совместной игре.
 
 Установка: подписаться в мастерской Steam или положить zip с папкой `mods-unpacked` в папку `mods` игры. О багах и несовместимостях пишите в Issues или в комментариях мастерской.
+
+Лицензия: все права у автора. Играть и менять для себя можно, перезаливать мод или выкладывать его под своим именем без разрешения нельзя (подробно в [LICENSE](LICENSE)).
