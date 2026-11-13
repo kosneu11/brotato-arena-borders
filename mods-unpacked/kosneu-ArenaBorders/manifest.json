@@ -1,0 +1,28 @@
+{
+	"name": "ArenaBorders",
+	"namespace": "kosneu",
+	"version_number": "1.1.4",
+	"description": "Surroundings for the Crash Zone and Abyss arenas instead of the black void: the ground continues past the arena edge in shadow, with themed props around it (cacti and rocks, forest, lava rocks, crystals, bones, dead trees, corals, shipwreck, shells), like the jungle arena has. Visual only.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [
+				"kosneu"
+			],
+			"optional_dependencies": [],
+			"compatible_game_version": [
+				"1.2.0.2"
+			],
+			"compatible_mod_loader_version": [
+				"6.3.0"
+			],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": [],
+			"config_schema": {},
+			"description_rich": "",
+			"image": null
+		}
+	}
+}
